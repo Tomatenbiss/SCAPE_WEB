@@ -343,7 +343,7 @@ label {
   width: 100%;
   top: 0;
   position: fixed;
-  background: url('../images/pic/Scape_Logo_RZ-06.png') center center no-repeat;
+  background: url('../images/pic/9.jpg') center center no-repeat;
   background-color: #333333;
   background-size: cover;
   z-index: -100;
@@ -360,7 +360,7 @@ label {
 	color: #000;
 }
 .navbar-inverse {
-	background-color: rgba(255, 255, 255, .9);
+	background-color: rgba(255, 255, 255, .85);
 
 	border: none;
 }
@@ -396,7 +396,7 @@ label {
 }
 #hero .lp-element {
 	padding: 100px 50px;
-	background-color: rgba(255, 255, 255, .75);
+	background-color: rgba(255, 255, 255, .85);
 }
 #hero h1 {
 	font-size: 60px;
@@ -596,6 +596,7 @@ label {
 
 #footer a {
 			color: #c5c4c4;
+			
 }
 
 #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
@@ -610,6 +611,14 @@ label {
 			border-top-color: #353434;
 			border-top-color: rgba(255, 255, 255, 0.05);
 }
+
+
+/*	Disclaimer
+	==================================================*/
+#collapseDisclaimer {
+	margin-top: 30px;
+}
+
 
 /*	Responsive
 	==================================================*/
